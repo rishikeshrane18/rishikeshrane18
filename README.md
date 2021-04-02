@@ -11,9 +11,6 @@
 </a>
 
 
-
-<br />
-<br />
 <p>
 Hi, I'm Rishikesh Rane, a Android Developer (Flutter) 👨‍💻 , Frontend Web Developer And Designer , UI/UX Designer from India, Currently I'm a Core Committee Member At IET-VIT And A Technical Team Member At Team Fourth Dimension And Yes I Am A Student Completing My BTech 👨‍🎓(2019-23) Graduation in CSE from [VIT](https://vit.ac.in/) . Beside's Programming, I Enjoy playing cricket.
 </p>
@@ -23,6 +20,7 @@ Hi, I'm Rishikesh Rane, a Android Developer (Flutter) 👨‍💻 , Frontend Web
 <p>
   <img align="right" alt="GIF"  width="350"  height="280"  src="https://media.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif" />
  </p> 
+ <p>
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 Looking For **Internships**;
@@ -30,6 +28,8 @@ Hi, I'm Rishikesh Rane, a Android Developer (Flutter) 👨‍💻 , Frontend Web
 - 👯 Open For **Collaboration**;
 - 💬 Ask Me About Anything, I Am Happy To **Help**;
 - 📫 How To Reach Me: rushikeshrane1@gmail.com;
+
+</p>
 
 **Languages and Tools:**  
 
@@ -53,15 +53,9 @@ Hi, I'm Rishikesh Rane, a Android Developer (Flutter) 👨‍💻 , Frontend Web
 <code><img height="35" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/085/square_280/firebaselogo.png"></code>
 <code><img height="35" src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png"></code>
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=rishikeshrane18&show_icons=true&locale=en" alt="rishikesh" />
- </p>
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishikeshrane18&show_icons=true&locale=en&layout=compact" alt="rishikesh"/>
-</p>
 
-<p align="center">
+<p align="start">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishikeshrane18&" alt="rishikeshrane" />
 </p>
 
