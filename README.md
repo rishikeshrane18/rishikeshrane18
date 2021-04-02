@@ -1,34 +1,23 @@
 ## Hola 👋, I'm Rishikesh Rane  
 
-<a href="https://www.linkedin.com/in/daksh-paleria-606211190/">
-  <img align="left" alt="Daksh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/rishikesh-rane-0836a484/">
+  <img align="left" alt="Rishikesh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/dakshp_07/">
-  <img align="left" alt="Daksh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/r_i_s_h_i18/">
+  <img align="left" alt="Rishikesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="mailto:dpaleria@gmail.com">
-  <img align="left" alt="Mail Daksh" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
+<a href="mailto:rushikeshrane1@gmail.com">
+  <img align="left" alt="Mail Rishikesh" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
-<a href="https://www.hackerrank.com/dpaleria">
-  <img align="left" alt="Daksh's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
-</a>
-<a href="https://www.behance.net/dpaleria97c7">
-  <img align="left" alt="Daksh's Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/behance.svg" />
-</a>
-<a href="https://gitlab.com/dakshp07">
-  <img align="left" alt="Daksh's GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gitlab.svg" />
-</a>
-<a href="https://sourcerer.io/dakshp07">
-  <img align="left" alt="Daksh's Sourcerer" width="22px" src="https://avatars3.githubusercontent.com/u/29913589?s=200&v=4"  />
-</a>
+
 
 
 <br />
 <br />
 
-Hi, I'm Daksh Paleria, a Android Developer (Flutter) 👨‍💻 , Frontend Web Developer And Designer , UI/UX Designer from India, Currently I'm a Core Committee Member At IET-VIT And A Technical Team Member At Team Fourth Dimension And Yes I Am A Student Completing My BTech 👨‍🎓(2019-23) Graduation in CSE from [VIT](https://vit.ac.in/) . Beside's Programming, I Enjoy Eating Food And Traveling.
+Hi, I'm Rishikesh Rane, a Android Developer (Flutter) 👨‍💻 , Frontend Web Developer And Designer , UI/UX Designer from India, Currently I'm a Core Committee Member At IET-VIT And A Technical Team Member At Team Fourth Dimension And Yes I Am A Student Completing My BTech 👨‍🎓(2019-23) Graduation in CSE from [VIT](https://vit.ac.in/) . Beside's Programming, I Enjoy playing cricket.
 
-  <img align="right" alt="GIF"  width="350"  height="280"  src="https://media4.giphy.com/media/3ohzdR8dwIZNjqrZss/200.webp?cid=ecf05e47628c903fc59636b95388c15e08741d93d5cb5171&rid=200.webp" />
+  <img align="right" alt="GIF"  width="350"  height="280"  src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
