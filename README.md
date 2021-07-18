@@ -1,13 +1,13 @@
 ## Hola 👋, I'm Rishikesh Rane  
 
 <a href="https://www.linkedin.com/in/rishikesh-rane-0836a484/">
-  <img align="left" alt="Rishikesh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Rishikesh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/r_i_s_h_i18/">
   <img align="center" alt="Rishikesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="mailto:rushikeshrane1@gmail.com">
-  <img align="right" alt="Mail Rishikesh" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
+  <img align="center" alt="Mail Rishikesh" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
 
 <br>
