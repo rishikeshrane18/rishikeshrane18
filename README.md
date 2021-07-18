@@ -14,13 +14,18 @@
 <p>
 Hi, I'm Rishikesh Rane, a Android Developer (Flutter) 👨‍💻 , Frontend Web Developer And Designer , UI/UX Designer from India, Currently I'm a Core Committee Member At IET-VIT And A Technical Team Member At Team Fourth Dimension And Yes I Am A Student Completing My BTech 👨‍🎓(2019-23) Graduation in CSE from [VIT](https://vit.ac.in/) . Beside's Programming, I Enjoy playing cricket.
 </p>
+<br>
 <p>
   <img align="right" alt="GIF"  width="350"  height="280"  src="https://media.giphy.com/media/hSLA7QcIpsWcGeGqRi/giphy.gif" />
  </p> 
 <p>
   <img align="right" alt="GIF"  width="350"  height="280"  src="https://media.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif" />
  </p> 
+ 
+ <br>
  <p>
+  
+  
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 Looking For **Internships**;
@@ -30,7 +35,7 @@ Hi, I'm Rishikesh Rane, a Android Developer (Flutter) 👨‍💻 , Frontend Web
 - 📫 How To Reach Me: rushikeshrane1@gmail.com;
 
 </p>
-
+<br>
 **Languages and Tools:**  
 
 
