@@ -1,7 +1,7 @@
 ## Hola 👋, I'm Rishikesh Rane  
 
 <a href="https://www.linkedin.com/in/rishikesh-rane-0836a484/">
-  <img align="center" alt="Rishikesh's LinkdeIN" width="22px" color = "white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Rishikesh's LinkdeIN" width="22px" background-color="#000000" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/r_i_s_h_i18/">
   <img align="center" alt="Rishikesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -16,16 +16,8 @@
 Hi, I'm Rishikesh Rane, a Android Developer (Flutter) 👨‍💻 , Frontend Web Developer And Designer , UI/UX Designer from India, Currently I'm a Core Committee Member At IET-VIT And A Technical Team Member At Team Fourth Dimension And Yes I Am A Student Completing My BTech 👨‍🎓(2019-23) Graduation in CSE from <a href="https://vit.ac.in/">[VIT]</a> . Beside's Programming, I Enjoy playing cricket.
 </p>
 <br>
-<div>
-  <img align="center" alt="GIF"  width="350"  height="280"  src="https://media.giphy.com/media/hSLA7QcIpsWcGeGqRi/giphy.gif" />
- </div> 
- <br>
-<div>
-  <img align="center" alt="GIF"  width="350"  height="280"  src="https://media.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif" />
- </div> 
- 
- <br>
- <p>
+<br>
+<p>
   
   
 **Talking about Personal Stuffs:**
